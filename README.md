@@ -13,6 +13,7 @@
 
 ## 相关资料
 
+- [二十四节气 - 英语](https://en.wikipedia.org/wiki/Solar_term)
 - [农历的编算和颁行 - 本地](./docs/calculation-and-promulgation-of-the-chinese-calendar.pdf)
 - [农历的编算和颁行 - 在线](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=E107EA4DE9725EDF819F33C60A44B296)
 
