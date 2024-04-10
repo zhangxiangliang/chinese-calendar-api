@@ -1,13 +1,16 @@
 {
   "name": "chinese-calendar-api",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "中国农历 - Chinese Calendar",
   "repository": "https://github.com/zhangxiangliang/chinese-calendar-api",
   "author": "zhangxiangliang",
   "keywords": [
-    "股票",
-    "数据分析",
-    "接口"
+    "中国农历",
+    "二十四节气",
+    "Chinese Calendar",
+    "Calendar",
+    "Lunar",
+    "Solar Term"
   ],
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
